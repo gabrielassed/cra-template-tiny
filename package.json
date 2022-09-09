@@ -19,7 +19,6 @@
     "url": "https://github.com/gabrielassed/cra-template-tiny/issues"
   },
   "files": [
-    "template",
-    "template.json"
+    "template"
   ]
 }
